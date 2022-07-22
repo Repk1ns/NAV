@@ -1,5 +1,5 @@
 # NAV
-NAV project 2021/2022
+VUT FIT - NAV project 2021/2022
 
 Zadání:
 
